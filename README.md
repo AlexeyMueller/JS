@@ -1,2 +1,0 @@
-# JS
-For JS training
